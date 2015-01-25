@@ -24,6 +24,12 @@ a.active {
     outline: 0;
     color: #18bc9c;
 }
+.button-wrapper.by {
+display: none !important;
+}
+#fixed-footer .by {
+display: none !important;
+}
 
 h1,
 h2,
